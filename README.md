@@ -1,2 +1,3 @@
-farklı 2 dosya birşetirme
-2 farklı dosyayı birleştirme
+satır sayıları aynı olan farklı 2 dosya birleştirmeyi gösterdim 
+
+
