@@ -1,2 +1,2 @@
-# 2-farkl-dosyay-birle-tirme
+farklı 2 dosya birşetirme
 2 farklı dosyayı birleştirme
