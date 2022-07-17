@@ -1,5 +1,5 @@
-#2 farklı dosyayı okuyup satır satır birleştirme
+# 2 farklı dosyayı okuyup satır satır birleştirme
 
-açıklma videoda mevcuttur.
-https://youtu.be/Ns97AdbUMo4
+açıklama videoda mevcuttur.
+https://youtu.be/Ns97AdbUMo4Cancel changes
 iyi seyirler
