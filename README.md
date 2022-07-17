@@ -1,3 +1,5 @@
-satır sayıları aynı olan farklı 2 dosya birleştirmeyi gösterdim 
+#2 farklı dosyayı okuyup satır satır birleştirme
 
-
+açıklma videoda mevcuttur.
+https://youtu.be/Ns97AdbUMo4
+iyi seyirler
